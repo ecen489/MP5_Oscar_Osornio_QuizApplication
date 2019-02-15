@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="the_quiz_game">The Quiz Game</string>
+    <string name="reset">Reset</string>
+    <string name="_0">0</string>
+    <string name="submit">Submit</string>
+    <string name="quiz_topic">Quiz Topic</string>
+    <string name="quiz_question">Quiz Question</string>
+    <string name="answer">Answer</string>
+</resources>
